@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./mnmkato.github.io_huddle-landing-page_.pngg)
+![](./mnmkato.github.io_huddle-landing-page_.png)
 
 ### Links
 
